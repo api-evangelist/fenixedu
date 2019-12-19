@@ -1,0 +1,58 @@
+{
+    "name": "FenixEdu",
+    "description": "<p>FenixEdu is a modular software platform for academic and administrative management of higher education institutions. It is among the growing number of service providers targeting higher educational institutions using APIs.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/fenixedu-logo.png",
+    "tags": [
+        "api provider",
+        "have api",
+        "universities",
+        "university service"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/fenixedu\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "FenixEdu",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/fenixedu-logo.png",
+            "humanURL": "http:\/\/fenixedu.org\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/fenixedu-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/fenixedu.org\/blog\/"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/fenixedu.org\/dev\/api\/"
+        },
+        {
+            "type": "Email",
+            "url": "hello@fenixedu.org"
+        },
+        {
+            "type": "Github",
+            "url": "http:\/\/github.com\/fenixedu"
+        },
+        {
+            "type": "Twitter",
+            "url": "http:\/\/twitter.com\/fenixeduproject"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/fenixedu.org\/"
+        }
+    ]
+}
